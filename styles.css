@@ -1,0 +1,42 @@
+.h1 {
+    color: forestgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.img {
+    height: auto;
+    width: 20vw;
+    display: block;
+    margin: auto;
+}
+
+.nav {
+    list-style: none;
+    padding-left: 0;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.nav>li {
+    border-style: ridge;
+    border-radius: 10px;
+
+    display: inline-block;
+
+    background-color: forestgreen;
+    font-size: 2vw;
+}
+
+.nav>li>a {
+    text-decoration: none;
+    color: white;
+}
+
+.img2 {
+    height: auto;
+    width: 50vw;
+    display: block;
+    margin: auto;
+}
